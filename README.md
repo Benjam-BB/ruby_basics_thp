@@ -9,9 +9,14 @@ METHODE say_hello : dis bonjour avec le prénom
 METHODE ask_first_name : demande le prénom et enregistre la réponse
 
 --> 01_pyramids.rb
+
 METHODE half_pyramid : créer une demi-pyramide avec 1 à 25 étages
+
 METHODE full_pyramid : créer une pyramide avec 1 à 25 étages
-METHODE wtf_pyramid : créer une pyramide à double sens avec 1 à 25 étages. Fonctionne que pour des nombres impairs
+
+METHODE wtf_pyramid : créer une pyramide à double sens avec 1 à 25 étages.
+Fonctionne que pour des nombres impairs
+
 Nous avons inséré une METHODE perform lançant les 3 pyramides à la suite.
 
 --> 02_password.rb
