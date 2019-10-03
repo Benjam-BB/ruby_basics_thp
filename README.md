@@ -1,5 +1,5 @@
-Jour 4, deuxième semaine de THP
-Exercices faits par Benjamin BERTRAND et Philippe GATTI
+Jour 4, deuxième semaine de THP :
+Exercices faits par Benjamin BERTRAND et Philippe GATTI.
 Nous avons les mêmes noms sur Slack
 
 
@@ -30,7 +30,7 @@ METHODE welcome_screen : affiche un message de bienvenu
 
 La METHODE perform lance dirige le déroulement des méthodes
 
---> 03_stairway_manual.rb
+--> 03_stairway_manual.rb : 
 Nous avons laissé le jeu en manuel ( il faut taper entrée pour relancer le dé à chaque tour)
 
 METHODE start : lance les paramètres du jeu
@@ -39,7 +39,7 @@ METHODE move : un tour du jeu
 
 METHODE perform : dirige le déroulement des méthodes et effectue plusieurs tours jusqu'à la victoire finale
 
---> 03_stairway.rb
+--> 03_stairway.rb : 
 Cette version lance le jeu de manière automatique (pas besoin de relancer le dé manuellement) pour un nombre de partie supérieur à 100 et renvoie le nombre de tours moyen par partie.
 
 METHODE start : lance les paramètres du jeu
